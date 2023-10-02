@@ -1,4 +1,4 @@
-= 博客站
+= CCM's blog
 
 - xref:ROOT:plugin.adoc[插件演示]
 - xref:ROOT:grammer.adoc[adoc语法]

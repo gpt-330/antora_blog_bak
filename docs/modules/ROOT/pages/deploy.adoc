@@ -5,8 +5,8 @@
 [TIP]
 .踩坑 
 ====
-1. 必须有gh-pages分支,内容和docs(部署分支)不一致也无所谓
-2. 在settings/pages 配置部署分支(目前使用的docs)
+1. 可以没有gh-pages分支
+2. 在settings/pages 使用自定义action部署
 ====
 
 基于上述配置后,发布文章只需要在docs分支push代码即可
