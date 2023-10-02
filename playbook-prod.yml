@@ -12,7 +12,6 @@ ui:
     url: ./ui/default_ui.zip
   supplemental_files: ./supplemental-ui
 runtime:
-  cache_dir: ./.cache/antora
   fetch: true
   log:
     failure_level: error
