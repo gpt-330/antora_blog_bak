@@ -2,3 +2,4 @@
 ** xref:ROOT:start.adoc[起始页]
 ** xref:ROOT:plugin.adoc[插件]
 ** xref:ROOT:grammer.adoc[语法]
+** xref:ROOT:new.adoc[test]
