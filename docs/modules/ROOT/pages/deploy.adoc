@@ -1,0 +1,19 @@
+= github-pages部署问题
+
+== 部署问题
+
+[TIP]
+.踩坑 
+====
+1. 必须有gh-pages分支,内容和docs(部署分支)不一致也无所谓
+2. 在settings/pages 配置部署分支(目前使用的docs)
+====
+
+基于上述配置后,发布文章只需要在docs分支push代码即可
+
+'''
+
+== 本地预览
+
+1. `npx antora playbook-local.yml`
+2. `node index.js`
