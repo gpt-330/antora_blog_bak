@@ -11,9 +11,18 @@
 
 基于上述配置后,发布文章只需要在docs分支push代码即可
 
-'''
 
 == 本地预览
 
 1. `npx antora playbook-local.yml`
 2. `node index.js`
+
+
+== favicon
+
+- 使用的 https://emojikitchen.dev/[emojikitchen]生成的
+- 这个站有一些很有意思的emoji组合
+
+== logo
+
+- 暂时使用 https://c.runoob.com/more/svgeditor/[svgeditor]制作的

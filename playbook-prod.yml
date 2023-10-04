@@ -1,5 +1,5 @@
 site:
-  title: catcodeme's blog
+  title: CCM's blog
   url: https://catcodeme.github.io
   start_page: blog::start.adoc
 content:
